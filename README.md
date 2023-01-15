@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **CodingMantras/CodingMantras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=790b76110573bc69645334166f3ad6276460a0db60d5ebe9&rid=giphy.gif&ct=s" width="200"/>
 </div>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<div id="badges">
+<div id="badges" align="center">
+  <a href="https://www.facebook.com/CodingMantras22/">
+    <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
   <a href="https://www.youtube.com/channel/UC3FMGm3Eo1AkmTht3sR_Npw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
