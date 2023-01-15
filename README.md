@@ -30,5 +30,13 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif?cid=ecf05e47kboikxeefq7nyh498018smj88z1v522qkppn3nzo&rid=giphy.gif&ct=s" width="30"> from India.
+
+- 🔭 Working as a Python Software Engineer.
+- 🧑‍💻 Machine Learning and AI enthusiast (Worked & Build with: Pytorch Opencv-python and Albumentation)
+- 🧾 Data Handling Processing & Visualization (Numpy Pandas Matplotlib & Seaborn)
+- 📫 A full Stack Developer (Backend: Django | Frontend: Javascript Jquery React | API: Django-restframework | Database: Postgres, sql)
+- 🌱 Exploring Technical Content Writing.
+- ⚡ In my free time I solve problems on kaggle and read tech articles.
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
