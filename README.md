@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+# <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
 ---
 
 <div id="header" align="center">
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-### About Me:
+## About Me:
 
 I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif?cid=ecf05e47kboikxeefq7nyh498018smj88z1v522qkppn3nzo&rid=giphy.gif&ct=s" width="30"> from India.
 
@@ -51,7 +52,7 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 
 ---
 
-### 🛠 &nbsp;Languages and Tools
+## 🛠 &nbsp;Languages and Tools
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
@@ -81,9 +82,10 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown"  alt="Markdown" width="40" height="40"/>&nbsp;
 </p>
+
 ---
 
-### 🔥 &nbsp; My Stats
+## 🔥 &nbsp; My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
 
