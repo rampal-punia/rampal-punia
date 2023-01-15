@@ -85,7 +85,7 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 
 ---
 
-## 🔥 &nbsp; My Stats
+## 🚀 &nbsp; My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodingMantras)](https://git.io/streak-stats)
 
