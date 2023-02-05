@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 
 ## About Me:
 
-I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif?cid=ecf05e47kboikxeefq7nyh498018smj88z1v522qkppn3nzo&rid=giphy.gif&ct=s" width="30"> from India![JayHindGIF](https://user-images.githubusercontent.com/104087274/216808756-fa4be72e-1821-489f-a497-508978e59140.gif)
-.
+I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif?cid=ecf05e47kboikxeefq7nyh498018smj88z1v522qkppn3nzo&rid=giphy.gif&ct=s" width="30"> from India.
 
 - 🔭 Working as a Python Software Developer.
 - 🧑‍💻 Machine Learning and AI enthusiast (Worked & Build with: Pytorch Opencv-python and Albumentation)
