@@ -89,4 +89,4 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodingMantras)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingMantras&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingMantras)](https://github.com/anuraghazra/github-readme-stats)
