@@ -30,6 +30,9 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/CodingMantras">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://medium.com/@mycodingmantras">
+    <img src="https://img.shields.io/badge/Medium?style=for-the-badge&logo=twitter&logoColor=white" alt="Medium Badge"/>
+  </a>
 </div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=CodingMantras&color=blue" />
@@ -51,6 +54,11 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ---
+
+## Blog Articles
+- [How to Extract Frames from a Video using Python — A Complete Guide](https://medium.com/@mycodingmantras/how-to-extract-frames-from-a-video-using-python-a-complete-guide-3124618b76cb)
+
+- [Do Variables in Python hold the actual data or the reference to that data?](https://medium.com/@mycodingmantras/do-variables-in-python-hold-the-actual-data-or-the-reference-to-that-data-8760fc71d814)
 
 ## 🛠 &nbsp;Languages and Tools
 
