@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://medium.com/@mycodingmantras">
-    <img src="https://img.shields.io/badge/Medium?style=for-the-badge&logo=twitter&logoColor=white" alt="Medium Badge"/>
+    ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
   </a>
 </div>
 <div id="badges" align="center">
