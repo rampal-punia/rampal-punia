@@ -61,6 +61,10 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 ---
 
 ## Blog Articles
+- [21 Most Frequently Used Built-in Functions In Python — A Beginners Guide](https://medium.com/@mycodingmantras/21-most-frequently-used-built-in-functions-in-python-a-beginners-guide-2224a6cda953)
+
+- [Learn All Important Methods of pathlib Module with Single Project](https://medium.com/@mycodingmantras/learn-all-important-methods-of-pathlib-module-with-single-project-eb60a2f03053)
+
 - [How to Extract Frames from a Video using Python — A Complete Guide](https://medium.com/@mycodingmantras/how-to-extract-frames-from-a-video-using-python-a-complete-guide-3124618b76cb)
 
 - [Do Variables in Python hold the actual data or the reference to that data?](https://medium.com/@mycodingmantras/do-variables-in-python-hold-the-actual-data-or-the-reference-to-that-data-8760fc71d814)
