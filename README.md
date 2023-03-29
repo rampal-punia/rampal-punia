@@ -60,7 +60,8 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 
 ---
 
-## Blog Articles
+## Blog Articles [Medium.com](https://medium.com/@mycodingmantras)
+
 - [21 Most Frequently Used Built-in Functions In Python — A Beginners Guide](https://medium.com/@mycodingmantras/21-most-frequently-used-built-in-functions-in-python-a-beginners-guide-2224a6cda953)
 
 - [Learn All Important Methods of pathlib Module with Single Project](https://medium.com/@mycodingmantras/learn-all-important-methods-of-pathlib-module-with-single-project-eb60a2f03053)
