@@ -70,7 +70,7 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 
 - [Do Variables in Python hold the actual data or the reference to that data?](https://medium.com/@mycodingmantras/do-variables-in-python-hold-the-actual-data-or-the-reference-to-that-data-8760fc71d814)
 
-- [What does if __name__ == ‘__main__’ mean in Python?](https://medium.com/@mycodingmantras/what-does-if-name-main-mean-in-python-fa6b0460a62d)
+- [What does `if __name__ == ‘__main__’` mean in Python?](https://medium.com/@mycodingmantras/what-does-if-name-main-mean-in-python-fa6b0460a62d)
 
 - [Designing A Login Register and User Authentication Script in Python](https://medium.com/@mycodingmantras/designing-a-login-register-and-user-authentication-script-in-python-326a11821504)
 
