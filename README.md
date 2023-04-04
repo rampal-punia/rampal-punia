@@ -74,6 +74,8 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 
 - [Designing A Login Register and User Authentication Script in Python](https://medium.com/@mycodingmantras/designing-a-login-register-and-user-authentication-script-in-python-326a11821504)
 
+- [Parameters VS Arguments in Python](https://medium.com/@mycodingmantras/parameters-vs-arguments-in-python-7252ec93da89)
+
 ## 🛠 &nbsp;Languages and Tools
 
 <p>
