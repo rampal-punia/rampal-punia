@@ -76,6 +76,8 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 
 - [Parameters VS Arguments in Python](https://medium.com/@mycodingmantras/parameters-vs-arguments-in-python-7252ec93da89)
 
+- [How to Measure the Performance of Your Machine Learning Models: Precision, Recall, Accuracy, and F1 Score](https://medium.com/@mycodingmantras/how-to-measure-the-performance-of-your-machine-learning-models-precision-recall-accuracy-and-f1-855702df048b)
+
 ## 🛠 &nbsp;Languages and Tools
 
 <p>
