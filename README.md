@@ -62,20 +62,27 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 
 ## Blog Articles [Medium.com](https://medium.com/@mycodingmantras)
 
+### Python Tutorials
+
+- [What does `if __name__ == ‘__main__’` mean in Python?](https://medium.com/@mycodingmantras/what-does-if-name-main-mean-in-python-fa6b0460a62d)
+
+- [Parameters VS Arguments in Python](https://medium.com/@mycodingmantras/parameters-vs-arguments-in-python-7252ec93da89)
+
 - [21 Most Frequently Used Built-in Functions In Python — A Beginners Guide](https://medium.com/@mycodingmantras/21-most-frequently-used-built-in-functions-in-python-a-beginners-guide-2224a6cda953)
+
+- [Do Variables in Python hold the actual data or the reference to that data?](https://medium.com/@mycodingmantras/do-variables-in-python-hold-the-actual-data-or-the-reference-to-that-data-8760fc71d814)
+
+
+### Python Projects
+
+- [Designing A Login Register and User Authentication Script in Python](https://medium.com/@mycodingmantras/designing-a-login-register-and-user-authentication-script-in-python-326a11821504)
 
 - [Learn All Important Methods of pathlib Module with Single Project](https://medium.com/@mycodingmantras/learn-all-important-methods-of-pathlib-module-with-single-project-eb60a2f03053)
 
 - [How to Extract Frames from a Video using Python — A Complete Guide](https://medium.com/@mycodingmantras/how-to-extract-frames-from-a-video-using-python-a-complete-guide-3124618b76cb)
 
-- [Do Variables in Python hold the actual data or the reference to that data?](https://medium.com/@mycodingmantras/do-variables-in-python-hold-the-actual-data-or-the-reference-to-that-data-8760fc71d814)
 
-- [What does `if __name__ == ‘__main__’` mean in Python?](https://medium.com/@mycodingmantras/what-does-if-name-main-mean-in-python-fa6b0460a62d)
-
-- [Designing A Login Register and User Authentication Script in Python](https://medium.com/@mycodingmantras/designing-a-login-register-and-user-authentication-script-in-python-326a11821504)
-
-- [Parameters VS Arguments in Python](https://medium.com/@mycodingmantras/parameters-vs-arguments-in-python-7252ec93da89)
-
+### ML Blogs 
 - [How to Measure the Performance of Your Machine Learning Models: Precision, Recall, Accuracy, and F1 Score](https://medium.com/@mycodingmantras/how-to-measure-the-performance-of-your-machine-learning-models-precision-recall-accuracy-and-f1-855702df048b)
 
 ## 🛠 &nbsp;Languages and Tools
