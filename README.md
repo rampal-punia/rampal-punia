@@ -90,6 +90,8 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 
 - [Building a Real-Time Object Detection and Tracking App with YOLOv8 and Streamlit: Part 2](https://medium.com/@mycodingmantras/building-a-real-time-object-detection-and-tracking-app-with-yolov8-and-streamlit-part-2-d1a273592e7e)
 
+- [Building a Real-Time Object Detection and Tracking App with YOLOv8 and Streamlit: Part 3](https://medium.com/@mycodingmantras/building-a-real-time-object-detection-and-tracking-app-with-yolov8-and-streamlit-part-3-78090a08b848)
+
 ## 🛠 &nbsp;Languages and Tools
 
 <p>
