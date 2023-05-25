@@ -72,6 +72,8 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 
 - [Do Variables in Python hold the actual data or the reference to that data?](https://medium.com/@mycodingmantras/do-variables-in-python-hold-the-actual-data-or-the-reference-to-that-data-8760fc71d814)
 
+- [Demystifying Python Ellipsis: Unleashing the Power of the Three Dots](https://medium.com/p/cad7fed70b4c)
+
 - [Global and Nonlocal Keywords in Python With Best Practices](https://medium.com/@mycodingmantras/global-and-nonlocal-keywords-in-python-with-best-practices-750f6393ecef)
 
 
