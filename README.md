@@ -74,6 +74,8 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 
 - [Demystifying Python Ellipsis: Unleashing the Power of the Three Dots](https://medium.com/p/cad7fed70b4c)
 
+- [8 Must-Know Points To Improve Code Readability](https://medium.com/@mycodingmantras/8-must-know-points-to-improve-code-readability-824ca4d35e7e)
+
 - [Global and Nonlocal Keywords in Python With Best Practices](https://medium.com/@mycodingmantras/global-and-nonlocal-keywords-in-python-with-best-practices-750f6393ecef)
 
 
