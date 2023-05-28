@@ -62,15 +62,18 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 
 ## Blog Articles [Medium.com](https://medium.com/@mycodingmantras)
 
-### Python Tutorials
+### Python FAQs
 
 - [What does `if __name__ == ‘__main__’` mean in Python?](https://medium.com/@mycodingmantras/what-does-if-name-main-mean-in-python-fa6b0460a62d)
 
 - [Parameters VS Arguments in Python](https://medium.com/@mycodingmantras/parameters-vs-arguments-in-python-7252ec93da89)
 
-- [21 Most Frequently Used Built-in Functions In Python — A Beginners Guide](https://medium.com/@mycodingmantras/21-most-frequently-used-built-in-functions-in-python-a-beginners-guide-2224a6cda953)
-
 - [Do Variables in Python hold the actual data or the reference to that data?](https://medium.com/@mycodingmantras/do-variables-in-python-hold-the-actual-data-or-the-reference-to-that-data-8760fc71d814)
+
+
+### Python Tutorials
+
+- [21 Most Frequently Used Built-in Functions In Python — A Beginners Guide](https://medium.com/@mycodingmantras/21-most-frequently-used-built-in-functions-in-python-a-beginners-guide-2224a6cda953)
 
 - [Demystifying Python Ellipsis: Unleashing the Power of the Three Dots](https://medium.com/p/cad7fed70b4c)
 
