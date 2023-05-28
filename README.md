@@ -68,6 +68,8 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 
 - [Parameters VS Arguments in Python](https://medium.com/@mycodingmantras/parameters-vs-arguments-in-python-7252ec93da89)
 
+- [Understanding the Dynamic Typing Nature of Python: A Comprehensive Guide](https://medium.com/@mycodingmantras/understanding-the-dynamic-typing-nature-of-python-a-comprehensive-guide-8f825fda0d01)
+
 - [Do Variables in Python hold the actual data or the reference to that data?](https://medium.com/@mycodingmantras/do-variables-in-python-hold-the-actual-data-or-the-reference-to-that-data-8760fc71d814)
 
 
