@@ -21,19 +21,11 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.facebook.com/CodingMantras22/">
-    <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC3FMGm3Eo1AkmTht3sR_Npw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/CodingMantras">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://medium.com/@mycodingmantras">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/14476286/rs-punia">
+
+
+ 
+
+<a href="https://stackoverflow.com/users/14476286/rs-punia">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
   
