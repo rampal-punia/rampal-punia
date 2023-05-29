@@ -20,17 +20,7 @@ Here are some ideas to get you started:
   <img src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=790b76110573bc69645334166f3ad6276460a0db60d5ebe9&rid=giphy.gif&ct=s" width="200"/>
 </div>
 
-<div id="badges" align="center">
 
-
- 
-
-<a href="https://stackoverflow.com/users/14476286/rs-punia">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  </a>
-  
-  
-</div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=CodingMantras&color=blue" />
 </div>
