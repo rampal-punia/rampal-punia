@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Demo Object Detection and Tracking WebApp
+## Object Detection and Tracking WebApp (Demo)
 
 This web app is up and running on the Streamlit cloud server!!! Thanks ‘Streamlit’ for the community support for the cloud upload. You can check the demo of this web application on the link below.
 
@@ -50,7 +50,7 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 
 ---
 
-## Blog Articles [Medium.com](https://medium.com/@mycodingmantras)
+## Blogs & Articles on [Medium.com](https://medium.com/@mycodingmantras)
 
 ### Python FAQs
 
