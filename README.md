@@ -128,6 +128,6 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 
 ## 🚀 &nbsp; My Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodingMantras)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rampal-punia)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingMantras)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rampal-punia)](https://github.com/anuraghazra/github-readme-stats)
