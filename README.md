@@ -50,7 +50,7 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 
 ---
 
-## Blogs & Articles on [Medium.com](https://medium.com/@mycodingmantras)
+## Blogs & Articles on [Medium.com]([https://medium.com/@mycodingmantras](https://rs-punia.medium.com/))
 
 ### Python FAQs
 
