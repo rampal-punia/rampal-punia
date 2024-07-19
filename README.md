@@ -42,8 +42,8 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 - 🔭 Computer Vision and NLP.
 - 🧑‍💻 Generative AI and Machine Learning
 - 🧾 Data analysis and visualization
-- 📫 A full Stack Developer (Backend: Django | Frontend: Javascript Jquery React | API: Django-restframework | Database: Postgres, sql)
-- 🌱 Exploring Technical Content Writing.
+- 📫 A Full Stack Developer (Django & React)
+- 🌱 Exploring Technical Content Writing
 - ⚡ In my free time I solve problems on Kaggle and read tech articles.
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
