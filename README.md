@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 This web app is up and running on the Streamlit cloud server!!! Thanks ‘Streamlit’ for the community support for the cloud upload. You can check the demo of this web application on the link below.
 
-[yolov8-streamlit-detection-tracking-webapp](https://codingmantras-yolov8-streamlit-detection-tracking-app-njcqjg.streamlit.app/)
+[yolov8-streamlit-detection-tracking-webapp](https://yolov8-object-detection-and-tracking-app.streamlit.app/)
 
 ---
 
