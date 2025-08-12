@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-## AI Generated 80,000 + Educational contents (Notes, questions & keywords)
+## LMS with AI-Generated 80,000 + Educational contents (Notes, questions & keywords)
 
 Revolutionary AI-driven LMS featuring 80,000+ CBSE-aligned questions, notes, and keywords. Empowers educators with instant content distribution, quiz creation, and student analytics while providing students with AI-powered practice sessions, real-time writing analytics, and personalized feedback modes for enhanced learning outcomes.
 
