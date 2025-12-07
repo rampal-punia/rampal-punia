@@ -53,11 +53,11 @@ Building enterprise AI solutions with **10-15 day deployment** using our reusabl
 
 ## 🛠️ Tech Stack
 
-**AI/ML:** Python • LangChain • LangGraph • HuggingFace • PyTorch • TensorFlow • OpenCV • YOLO • MCP-Server 
-**Backend:** Django • FastAPI • Celery • PostgreSQL • pgvector • Redis  
-**Frontend:** React • Next.js • TypeScript  
-**Infrastructure:** Docker • Kubernetes • AWS • NGINX • GitHub Actions  
-**Vector DBs:** pgvectorscale • Milvus • ChromaDB • FAISS
+- **AI/ML:** Python • LangChain • LangGraph • HuggingFace • PyTorch • TensorFlow • OpenCV • YOLO • MCP-Server 
+- **Backend:** Django • FastAPI • Celery • PostgreSQL • pgvector • Redis  
+- **Frontend:** React • Next.js • TypeScript  
+- **Infrastructure:** Docker • Kubernetes • AWS • NGINX • GitHub Actions  
+- **Vector DBs:** pgvectorscale • Milvus • ChromaDB • FAISS
 
 ---
 
