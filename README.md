@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 -->
 # <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm RS Punia!</h1>
 
+**Founder & CTO @ [Aparsoft](https://aparsoft.com)** | One Platform Infinite Possibilities | Defence-Grade AI Solutions for Enterprise
+
+Former **IAF Veteran** → **CAIR-DRDO AI Researcher (4+ Years)** → **AI Entrepreneur**  
+**IISc Bengaluru** - Advanced Certification in Computational Data Science | **GATE-24** DS & AI Qualifier
+
 ---
 
 <div id="header" align="center">
@@ -26,33 +31,33 @@ Here are some ideas to get you started:
 </div>
 
 ---
-## LMS with AI-Generated 80,000 + Educational contents (Questions, Notes & Keywords)
 
-Revolutionary AI-driven LMS featuring 80,000+ CBSE-aligned questions, notes, and keywords. Empowers educators with instant content distribution, quiz creation, and student analytics while providing students with AI-powered practice sessions, real-time writing analytics, and personalized feedback modes for enhanced learning outcomes.
+## 🚀 What I'm Building
 
-[Apar AI LMS](https://aparailms.com)
+### [Apar AI LMS](https://github.com/aparsoft) 
+Enterprise AI-Assisted Learning Management System with **80,000+ AI-generated educational assets** (Questions, Notes, Keywords). Reducing educator workload by 70% through automated content creation, assessment generation, and learning analytics.
 
-
-## Object Detection and Tracking WebApp (Demo)
-
-This web app is up and running on the Streamlit cloud server!!! Thanks ‘Streamlit’ for the community support for the cloud upload. You can check the demo of this web application on the link below.
-
-[yolov8-streamlit-detection-tracking-webapp](https://yolov8-object-detection-and-tracking-app.streamlit.app/)
+### [Aparsoft](https://aparsoft.com)
+Building enterprise AI solutions with **10-15 day deployment** using our reusable core platform:
+- 🕷️ Web Scraping Engine (100+ pages/hour)
+- 📄 Document Intelligence & Vectorization
+- 🤖 LangGraph Agentic AI Workflows
+- 🔍 Optimized RAG Pipelines (<5% hallucination)
+- 🔌 API-First Architecture
 
 ---
 
-## About Me:
-
-I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif?cid=ecf05e47kboikxeefq7nyh498018smj88z1v522qkppn3nzo&rid=giphy.gif&ct=s" width="30"> from India.
-
-- 🔭 Computer Vision and NLP.
-- 🧑‍💻 Generative AI and Machine Learning
-- 🧾 Data analysis and visualization
-- 📫 A Full Stack Developer (Django & React)
-- 🌱 Exploring Technical Content Writing
-- ⚡ In my free time I solve problems on Kaggle and read tech articles.
-
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
+---
+
+## 🛠️ Tech Stack
+
+**AI/ML:** Python • LangChain • LangGraph • HuggingFace • PyTorch • TensorFlow • OpenCV • YOLO • MCP-Server 
+**Backend:** Django • FastAPI • Celery • PostgreSQL • pgvector • Redis  
+**Frontend:** React • Next.js • TypeScript  
+**Infrastructure:** Docker • Kubernetes • AWS • NGINX • GitHub Actions  
+**Vector DBs:** pgvectorscale • Milvus • ChromaDB • FAISS
 
 ---
 
@@ -132,8 +137,6 @@ I am a Python Software Developer <img src="https://media4.giphy.com/media/kJV3yF
 
 ---
 
-## 🚀 &nbsp; My Stats
+## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rampal-punia)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rampal-punia)](https://github.com/anuraghazra/github-readme-stats)
