@@ -139,4 +139,4 @@ Building enterprise AI solutions with **10-15 day deployment** using our reusabl
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rampal-punia)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rampal-punia)](https://git.io/streak-stats)
