@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 **Founder & CTO @ [Aparsoft](https://aparsoft.com)** | One Platform Infinite Possibilities | Defence-Grade AI Solutions for Enterprise
 
 Former **IAF Veteran** → **CAIR-DRDO AI Researcher (4+ Years)** → **AI Entrepreneur**  
-**IISc Bengaluru** - Advanced Certification in Computational Data Science | **GATE-24** DS & AI Qualifier
+**IISc Bengaluru** - Advanced Certification in Computational Data Science | **GATE-24** DS & AI Qualifier (Appeared to test my knowledge and understanding in 2024)
 
 ---
 
