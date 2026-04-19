@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm RS Punia!</h1>
 
-**Founder & CTO @ [Aparsoft](https://aparsoft.com)** | One Platform Infinite Possibilities | Defence-Grade AI Solutions for Enterprise
+**Founder & CTO @ [Aparsoft](https://aparsoft.com)** | AI-Powered Innovation For Modern Enterprises | Defence-Grade AI Solutions for Enterprise
 
 Former **IAF Veteran** → **CAIR-DRDO AI Researcher (4+ Years)** → **AI Entrepreneur**  
 **IISc Bengaluru** - Advanced Certification in Computational Data Science | **GATE-24** DS & AI Qualifier (Appeared to test my knowledge and understanding in 2024)
@@ -35,7 +35,7 @@ Former **IAF Veteran** → **CAIR-DRDO AI Researcher (4+ Years)** → **AI Entre
 ## 🚀 What I'm Building
 
 ### [Apar AI LMS](https://github.com/aparsoft) 
-Enterprise AI-Assisted Learning Management System with **80,000+ AI-generated educational assets** (Questions, Notes, Keywords). Reducing educator workload by 70% through automated content creation, assessment generation, and learning analytics.
+Enterprise AI-Assisted Learning Management System with **3 Lakh+ Learning-Engineered AI-generated educational assets** (Questions, Notes, Keywords, concept maps, summaries, lesson plans) with 7+ AI features. Reducing educator workload by 50% through automated content creation, assessment generation, and learning analytics.
 
 ### [Aparsoft](https://aparsoft.com)
 Building enterprise AI solutions with **10-15 day deployment** using our reusable core platform:
